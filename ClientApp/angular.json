@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "backtyr"
+  "defaultProject": "backtyr",
+  "cli": {
+    "analytics": false
+  }
 }

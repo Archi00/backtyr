@@ -1,6 +1,6 @@
-# .NET Angular SPA Template
+# .NET Angular SPA
 
-A simple template for building a Single Page Application (SPA) with a .NET backend and an Angular frontend.
+Single Page Application (SPA) with a .NET backend and an Angular frontend.
 
 ## Features
 
